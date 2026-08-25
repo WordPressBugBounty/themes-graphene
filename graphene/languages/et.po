@@ -2996,11 +2996,11 @@ msgstr "Kaks veergu, külgriba vasakul"
 
 #~ msgid ""
 #~ "<strong>Note:</strong> homepage panes are only displayed when using a <a "
-#~ "href=\"http://codex.wordpress.org/Creating_a_Static_Front_Page\">static "
+#~ "href=\"http://codex.WordPress.org/Creating_a_Static_Front_Page\">static "
 #~ "front page</a>."
 #~ msgstr ""
 #~ "<strong> Tähelepanu:</strong> kodulehe paneele on ainult näha kui "
-#~ "kasutate <a href=\"http://codex.wordpress.org/Creating_a_Static_Front_Page"
+#~ "kasutate <a href=\"http://codex.WordPress.org/Creating_a_Static_Front_Page"
 #~ "\">static front page</a>."
 
 #~ msgid "Comments Options"

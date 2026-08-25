@@ -2732,11 +2732,11 @@ msgstr ""
 # @ graphene
 #~ msgid ""
 #~ "Please direct all support requests for the theme at the theme's <a href="
-#~ "\"http://forum.khairul-syahir.com/forum/graphene-wordpress-theme\">Support "
+#~ "\"http://forum.khairul-syahir.com/forum/graphene-WordPress-theme\">Support "
 #~ "Forum</a>."
 #~ msgstr ""
 #~ "تمام درخواست‌های پشتیبانی از طریق <a href=\"http://forum.khairul-syahir.com/"
-#~ "forum/graphene-wordpress-theme\">انجمن پشتیبانی</a> رسیدگی می‌شود."
+#~ "forum/graphene-WordPress-theme\">انجمن پشتیبانی</a> رسیدگی می‌شود."
 
 # @ graphene
 #~ msgid "The post's featured image is replacing my header image. Help!"
@@ -2762,7 +2762,7 @@ msgstr ""
 
 # @ graphene
 #~ msgid ""
-#~ "The Graphene Wordpress theme, along with all the other themes in the Wordpress."
+#~ "The Graphene WordPress theme, along with all the other themes in the WordPress."
 #~ "org Official Free Themes Directory, is released under the GNU General Public "
 #~ "License (GPL) Version 2. The full text of that licence is included with the "
 #~ "theme in the <code>licence.txt</code> file in the theme's folder. Releasing "
@@ -2827,9 +2827,9 @@ msgstr ""
 
 # @ graphene
 #~ msgid ""
-#~ "I don't know. With so many plugins available for Wordpress, there's no way "
+#~ "I don't know. With so many plugins available for WordPress, there's no way "
 #~ "that I (or anybody else for that matter) can test for compatibility for all of "
-#~ "them. Having said that, the theme is built with all the necessary Wordpress "
+#~ "them. Having said that, the theme is built with all the necessary WordPress "
 #~ "components included with it, so chances are most plugins will be compatible "
 #~ "with the theme."
 #~ msgstr ""
@@ -2912,7 +2912,7 @@ msgstr ""
 #~ msgstr "استفاده از آدرس خوراک سفارشی"
 
 # @ graphene
-#~ msgid "This custom feed URL will replace the default Wordpress RSS feed URL."
+#~ msgid "This custom feed URL will replace the default WordPress RSS feed URL."
 #~ msgstr "این آدرس خوراک سفارشی با آدرس RSS feed پیش‌فرض وردپرس جایگزین می‌شود."
 
 # @ graphene

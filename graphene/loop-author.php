@@ -11,7 +11,7 @@
             <div class="col-sm-9">
                 <h1 class="post-title"><?php echo get_the_author_meta( 'user_firstname' ) . ' ' . get_the_author_meta( 'user_lastname' ); ?></h1>
                 <?php $location = get_the_author_meta( 'graphene_author_location' ); if ( $location ) : ?>
-                    <p class="location"><?php echo $location; ?></p>
+                    <p class="location"><?php echo esc_html( $location ); ?></p>
                 <?php endif; ?>
 
                 <?php graphene_author_social_links( get_the_author_meta( 'ID' ) ); ?>

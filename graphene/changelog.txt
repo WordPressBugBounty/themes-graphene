@@ -1,8 +1,11 @@
-﻿GRAPHENE WORDPRESS THEME CHANGELOG
+﻿Graphene WordPress Theme Changelog
 by Syahir Hakim
 https://www.graphene-theme.com/
 
 CHANGELOG
+
+Version 2.9.5 [07-08-2026]
+	* Fixed: XSS vulnerability
 
 Version 2.9.4 [21-03-2024]
 	* Fixed: Inline date icon appears in pages
@@ -980,7 +983,7 @@ Version 1.1.2
 	* Added filters to change the number of latest author posts and most commented author posts
 	* Fixed content width styling for Pages that appear in search results
 	* Replaced ('open' == $post->comment_status) with comments_open() for checking comment status
-	* Added check for the presence of favicon.ico in wordpress root directory, and add the appropriate head element for using the favicon
+	* Added check for the presence of favicon.ico in WordPress root directory, and add the appropriate head element for using the favicon
 	* Fixed dropdown menu items not showing in IE7 when the parent menu item is selected
 	* Fixed the current page item in the menu not being highlighted
 	* Added European Portuguese (pt_PT) translation, by PL Monteiro
@@ -1019,7 +1022,7 @@ Version 1.1
 	* Added option to specify the number of latest posts to display in the slider
 	* Added a few options that the user can select on which image to show as the slider image. Each posts and pages has their individual settings which can be used to override the global setting.
 	* Added additional author field to specify the image (by URL) to be displayed on the author's page
-	* [CANCELLED] Add RSS icon to wordpress' default Meta widget
+	* [CANCELLED] Add RSS icon to WordPress' default Meta widget
 	* Added a confirmation page before uninstalling the theme
 	* Added option to disable the Creative Commons copyright text at the bottom
 	* Added two more action hooks: graphene_top_content, graphene_bottom_content

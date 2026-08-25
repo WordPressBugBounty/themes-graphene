@@ -18,7 +18,7 @@ function graphene_show_custom_user_fields( $user ){
             </th>
             <td>
             	<?php $author_imgurl = get_user_meta( $user->ID, 'graphene_author_imgurl', true ); ?>
-            	<img src="<?php echo $author_imgurl; ?>" class="author-image-preview" style="max-height:150px;max-width:150px" alt="" /><br />
+            	<img src="<?php echo esc_url( $author_imgurl ); ?>" class="author-image-preview" style="max-height:150px;max-width:150px" alt="" /><br />
 
                 <input type="text" name="author_imgurl" id="author_imgurl" value="<?php echo esc_attr( $author_imgurl ); ?>" size="80" />
                 <input type="button" class="button-primary" value="<?php _e( 'Upload Image', 'graphene' ); ?>" id="graphene_author_imgurl_upload" data-uploader_title="<?php _e( 'Author profile image', 'graphene' ); ?>" data-uploader_button_text="<?php _e( 'Select image', 'graphene' ); ?>" /><br />
@@ -210,8 +210,10 @@ function graphene_save_custom_user_fields( $user_id ){
         return false;
     
     // Updates the custom field and save it as a user meta
-    update_user_meta( $user_id, 'graphene_author_imgurl', $_POST['author_imgurl'] );
-    update_user_meta( $user_id, 'graphene_author_location', $_POST['graphene_author_location'] );
+    if ( isset( $_POST['author_imgurl'] ) )
+        update_user_meta( $user_id, 'graphene_author_imgurl', esc_url_raw( wp_unslash( $_POST['author_imgurl'] ) ) );
+    if ( isset( $_POST['graphene_author_location'] ) )
+        update_user_meta( $user_id, 'graphene_author_location', sanitize_text_field( wp_unslash( $_POST['graphene_author_location'] ) ) );
 
     $custom_avatar = ( isset( $_POST['graphene_author_imgurl_as_avatar'] ) ) ? true : false;
     update_user_meta( $user_id, 'graphene_author_imgurl_as_avatar', $custom_avatar );

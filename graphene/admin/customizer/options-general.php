@@ -372,7 +372,7 @@ function graphene_customizer_general_options( $wp_customize ){
 		'label' 		=> __( 'Commenting', 'graphene' ),
 		'description'	=> __( 'Overrides the global WordPress Discussion Setting called "Allow people to post comments on new articles" and also the "Allow comments" option for individual posts/pages.', 'graphene' ),
 		'choices'		=> array(
-			'wordpress'				=> __( 'Use WordPress settings', 'graphene' ),
+			'WordPress'				=> __( 'Use WordPress settings', 'graphene' ),
 			'disabled_pages'		=> __( 'Disable for pages', 'graphene' ),
 			'disabled_completely'	=> __( 'Disable completely', 'graphene' ),
 		),

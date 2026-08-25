@@ -1,4 +1,4 @@
-GRAPHENE WORDPRESS THEME README
+Graphene WordPress Theme Readme
 This readme.txt is last updated on: 15 December 2018
 
 

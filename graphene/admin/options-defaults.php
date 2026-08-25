@@ -67,7 +67,7 @@ $graphene_defaults = apply_filters( 'graphene_defaults', array(
 	'disable_homepage_panes' 	=> false,
     
     /* Comment options */
-    'comments_setting' 			=> 'wordpress', // wordpress | disabled_pages | disabled_completely
+    'comments_setting' 			=> 'WordPress', // wordpress | disabled_pages | disabled_completely
         
     /* Child page options */    
     'hide_parent_content_if_empty' 	=> false,

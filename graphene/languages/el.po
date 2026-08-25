@@ -1199,13 +1199,13 @@ msgid ""
 "post comments on new articles\" and also the \"Allow comments\" option for "
 "individual posts/pages."
 msgstr ""
-"Σημείωση: αυτή η ρύθμιση υπερισχύει της ρύθμισης συζήτησης του Wordpress "
+"Σημείωση: αυτή η ρύθμιση υπερισχύει της ρύθμισης συζήτησης του WordPress "
 "\"Επιτρέπεται ο σχολιασμός άρθρων\" και της \"Επιτρέπεται ο σχολιασμός\" "
 "ρύθμισης στα μεμονωμένα άρθρα/σελίδες."
 
 #: admin/customizer/options-general.php:311
 msgid "Use WordPress settings"
-msgstr "Χρήση ρυθμίσεων του Wordpress"
+msgstr "Χρήση ρυθμίσεων του WordPress"
 
 #: admin/customizer/options-general.php:312
 #, fuzzy
@@ -2432,11 +2432,11 @@ msgstr "Δύο στήλες, με ένα πλευρικό πάνελ αριστ�
 
 #~ msgid ""
 #~ "Please direct all support requests for the theme at the theme's <a href="
-#~ "\"http://forum.khairul-syahir.com/graphene-wordpress-theme/\">Support "
+#~ "\"http://forum.khairul-syahir.com/graphene-WordPress-theme/\">Support "
 #~ "Forum</a>."
 #~ msgstr ""
 #~ "Παρακαλούμε απευθύνετε όλα τα αιτήματα υποστήριξης για το θέμα στο <a "
-#~ "href=\"http://forum.khairul-syahir.com/graphene-wordpress-theme/"
+#~ "href=\"http://forum.khairul-syahir.com/graphene-WordPress-theme/"
 #~ "\">Support Forum</a>."
 
 #~ msgid "The post's featured image is replacing my header image. Help!"
@@ -2553,7 +2553,7 @@ msgstr "Δύο στήλες, με ένα πλευρικό πάνελ αριστ�
 #~ msgstr ""
 #~ "Δεν ξέρω. Με τόσες διαθέσιμα πρόσθετα, δεν υπάρχει τρόπος να γίνεται σε "
 #~ "όλα τεστ συμβατότητας. Παρ' όλα αυτά το θέμα έχει δημιουργηθεί με όλα "
-#~ "εκείνα τα χαρακτηριστικά του Wordpress, έτσι ώστε να το καθιστούν συμβατό "
+#~ "εκείνα τα χαρακτηριστικά του WordPress, έτσι ώστε να το καθιστούν συμβατό "
 #~ "με τα περισσότερα πρόσθετα που υπάρχουν."
 
 #~ msgid ""
@@ -3032,11 +3032,11 @@ msgstr "Δύο στήλες, με ένα πλευρικό πάνελ αριστ�
 #~ msgstr ""
 #~ "Απλά δηλώστε το πλήρες URL του αρχείου favicon για να ενεργοποιηθεί. "
 #~ "Σιγουρευτείτε ότι θα συμπεριλάβετε το <code>http://</code> μπροστά από το "
-#~ "URL. Ή χρησιμοποιήστε τη μεταφόρτωση πολυμέσων του Wordpress για να "
+#~ "URL. Ή χρησιμοποιήστε τη μεταφόρτωση πολυμέσων του WordPress για να "
 #~ "μεταφορτώσετε μια εικόνα ή επιλέξτε μια από την βιβλιοθήκη πολυμέσων."
 
 #~ msgid "WordPress Editor options"
-#~ msgstr "Επλογές διαχειριστή του Wordpress"
+#~ msgstr "Επλογές διαχειριστή του WordPress"
 
 #~ msgid "Custom CSS"
 #~ msgstr "Τροποποιημένο CSS"
@@ -3116,11 +3116,11 @@ msgstr "Δύο στήλες, με ένα πλευρικό πάνελ αριστ�
 
 #~ msgid ""
 #~ "<strong>Note:</strong> this feature is not available when using a <a href="
-#~ "\"http://codex.wordpress.org/Creating_a_Static_Front_Page\">static front "
+#~ "\"http://codex.WordPress.org/Creating_a_Static_Front_Page\">static front "
 #~ "page</a>."
 #~ msgstr ""
 #~ "<strong>Σημείωση:</strong> αυτό το χαρακτηριστικό δεν είναι διαθέσιμο "
-#~ "όταν γίνεται χρήση της <a href=\"http://codex.wordpress.org/"
+#~ "όταν γίνεται χρήση της <a href=\"http://codex.WordPress.org/"
 #~ "Creating_a_Static_Front_Page\">Στατική Πρώτη Σελίδα</a>."
 
 #~ msgid "Latest posts by category"
@@ -3134,11 +3134,11 @@ msgstr "Δύο στήλες, με ένα πλευρικό πάνελ αριστ�
 
 #~ msgid ""
 #~ "<strong>Note:</strong> this feature is only available when using a <a "
-#~ "href=\"http://codex.wordpress.org/Creating_a_Static_Front_Page\">static "
+#~ "href=\"http://codex.WordPress.org/Creating_a_Static_Front_Page\">static "
 #~ "front page</a>."
 #~ msgstr ""
 #~ "<strong>Σημείωση:</strong> αυτό το χαρακτηριστικό είναι διαθέσιμο μόνο "
-#~ "όταν γίνεται χρήση της <a href=\"http://codex.wordpress.org/"
+#~ "όταν γίνεται χρήση της <a href=\"http://codex.WordPress.org/"
 #~ "Creating_a_Static_Front_Page\">Στατική Πρώτη Σελίδα</a>."
 
 #~ msgid "Comments Options"
@@ -3899,7 +3899,7 @@ msgstr "Δύο στήλες, με ένα πλευρικό πάνελ αριστ�
 #~ "This custom feed URL will replace the default WordPress RSS feed URL."
 #~ msgstr ""
 #~ "Αυτό το τροποποιημένο URL καναλιού θα αντικαταστήσει το αρχικό URL του "
-#~ "καναλιού RSS του Wordpress."
+#~ "καναλιού RSS του WordPress."
 
 #~ msgid "Twitter URL"
 #~ msgstr "Twitter URL"

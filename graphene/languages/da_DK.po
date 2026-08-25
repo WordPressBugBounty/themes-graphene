@@ -2658,11 +2658,11 @@ msgstr "To kolonner, med sidebar til venstre"
 # @ graphene
 #~ msgid ""
 #~ "Please direct all support requests for the theme at the theme's <a href="
-#~ "\"http://forum.khairul-syahir.com/graphene-wordpress-theme/\">Support "
+#~ "\"http://forum.khairul-syahir.com/graphene-WordPress-theme/\">Support "
 #~ "Forum</a>."
 #~ msgstr ""
 #~ "Alle support anmodninger om temaet bedes rettet til temaets <a href="
-#~ "\"http://forum.khairul-syahir.com/graphene-wordpress-theme/\">Support "
+#~ "\"http://forum.khairul-syahir.com/graphene-WordPress-theme/\">Support "
 #~ "Forum</a>."
 
 # @ graphene
@@ -3456,11 +3456,11 @@ msgstr "To kolonner, med sidebar til venstre"
 # @ graphene
 #~ msgid ""
 #~ "<strong>Note:</strong> this feature is not available when using a <a href="
-#~ "\"http://codex.wordpress.org/Creating_a_Static_Front_Page\">static front "
+#~ "\"http://codex.WordPress.org/Creating_a_Static_Front_Page\">static front "
 #~ "page</a>."
 #~ msgstr ""
 #~ "<strong>Bemærk:</strong> denne mulighed kan ikke bruges med <a href="
-#~ "\"http://codex.wordpress.org/Creating_a_Static_Front_Page\">statisk "
+#~ "\"http://codex.WordPress.org/Creating_a_Static_Front_Page\">statisk "
 #~ "forside</a>."
 
 # @ graphene
@@ -3478,11 +3478,11 @@ msgstr "To kolonner, med sidebar til venstre"
 # @ graphene
 #~ msgid ""
 #~ "<strong>Note:</strong> this feature is only available when using a <a href="
-#~ "\"http://codex.wordpress.org/Creating_a_Static_Front_Page\">static front "
+#~ "\"http://codex.WordPress.org/Creating_a_Static_Front_Page\">static front "
 #~ "page</a>."
 #~ msgstr ""
 #~ "<strong>Bemærk:</strong> denne mulighed kan kun anvendes, hvis du bruger "
-#~ "<a href=\"http://codex.wordpress.org/Creating_a_Static_Front_Page"
+#~ "<a href=\"http://codex.WordPress.org/Creating_a_Static_Front_Page"
 #~ "\">statisk forside</a>."
 
 # @ graphene
